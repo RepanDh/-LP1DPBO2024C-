@@ -1,5 +1,5 @@
 # -LP1DPBO2024C-
-Latihan 1, Class &amp; Encapsulation C++
+Latihan 1, Class &amp; Encapsulation 
 
 
 Saya Repan Dhia Nararya mengerjakan Latihan Praktikum Desain Pemrograman Berorientasi Objek dalam mata kuliah
